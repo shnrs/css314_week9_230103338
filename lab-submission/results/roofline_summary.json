@@ -1,0 +1,22 @@
+{
+  "student_id": "230103338",
+  "N": 1088,
+  "kernel": "5-point Jacobi stencil, float64",
+  "flops_per_point": 5,
+  "bytes_per_point_ideal": 16,
+  "bytes_per_point_with_write_allocate": 24,
+  "arithmetic_intensity_flop_per_byte": 0.3125,
+  "arithmetic_intensity_with_write_allocate": 0.20833333333333334,
+  "working_set_MB": 18.939904,
+  "peak_bandwidth_GBs": 9.016039848050758,
+  "peak_bandwidth_source": "measured numpy copy",
+  "peak_gflops": 96.0,
+  "peak_gflops_source": "estimate 16 FLOP/cycle x 2 cores x 3.0 GHz",
+  "ridge_point_flop_per_byte": 10.647690296173096,
+  "roofline_bound_GFLOPs": 2.817512452515862,
+  "achieved_GFLOPs_at_max_P": 0.4122808513946564,
+  "regime": "memory-bandwidth bound",
+  "amdahl_serial_fraction_s": 0.13353271498499075,
+  "amdahl_max_speedup": 7.488801527868293,
+  "max_P": 2
+}

@@ -1,0 +1,5 @@
+mode	P	N	T_s	speedup	efficiency_pct	karp_flatt_e	T1_over_TP
+strong	1	1088	5.047338	1.0000	100.00	nan	nan
+strong	2	1088	2.860662	1.7644	88.22	0.1335	nan
+weak	1	1088	3.297007	1.0000	100.00	nan	1.0000
+weak	2	1539	5.684316	1.1618	58.09	nan	0.5800

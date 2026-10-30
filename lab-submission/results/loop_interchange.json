@@ -1,0 +1,13 @@
+{
+  "student_id": "230103338",
+  "backend": "numba",
+  "N": 1088,
+  "M": 544,
+  "runs": 3,
+  "T_naive_ijk_ns": 518756300,
+  "T_interchanged_ikj_ns": 238534500,
+  "speedup": 2.174764237458313,
+  "max_abs_diff": 0.0,
+  "sha256_ijk": "a0b3141cfb81d0eff386c1486577d247ddfee155a0e29cd4fc088ad5eb3897ef",
+  "sha256_ikj": "a0b3141cfb81d0eff386c1486577d247ddfee155a0e29cd4fc088ad5eb3897ef"
+}

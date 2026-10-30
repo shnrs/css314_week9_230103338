@@ -1,0 +1,12 @@
+{
+    "os_kernel": "Windows 11",
+    "python_version": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+    "architecture": "AMD64",
+    "cpu_model": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+    "physical_cores": 4,
+    "logical_cores": 4,
+    "cache_line_size_bytes": 64,
+    "l1_data_cache_kb": 32,
+    "l2_cache_kb": 512,
+    "l3_cache_kb": 16384
+}
